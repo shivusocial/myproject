@@ -1,3 +1,0 @@
-# myproject
-Git Hub test
-
